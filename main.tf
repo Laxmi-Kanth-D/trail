@@ -5,3 +5,9 @@ module "vm" {
   key = var.key_id
   ins = var.ins_ty
 }
+
+module "Pub_igw"{
+
+
+  
+}
