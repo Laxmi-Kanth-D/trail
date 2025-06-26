@@ -1,11 +1,11 @@
 variable "ami_id" {
-  
+
   type = string
 }
 
 variable "subnet_id" {
-    type = string
-  
+  type = string
+
 }
 
 variable "key_id" {
