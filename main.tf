@@ -6,8 +6,7 @@ module "vm" {
   ins = var.ins_ty
 }
 
-module "Pub_igw"{
-
-
-  
+module "pub_igw"{
+  source = "./modules/igw"
+  vpc = var.vpc_name
 }

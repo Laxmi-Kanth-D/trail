@@ -16,3 +16,4 @@ variable "ins_ty" {
   type = string
 }
 
+variable "vpc_name" {}
