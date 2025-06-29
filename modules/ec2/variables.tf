@@ -15,4 +15,8 @@ variable "key" {
 variable "ins" {
   type = string
 }
-
+variable "user_data" {
+  type = string
+  default = "null"
+  
+}

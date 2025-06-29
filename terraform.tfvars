@@ -5,3 +5,5 @@ subnet_id = "subnet-063d4545857061593"
 key_id = "mine1"
 
 ins_ty = "t3.medium"
+
+vpc_name = "vpc-0b9cefd63582cf26d"
